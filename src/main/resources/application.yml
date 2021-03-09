@@ -1,0 +1,3 @@
+logging.level.com.bug1024.msystem: OFF
+# 如果log.xml在resources目录下
+logging.config: classpath:log.xml
